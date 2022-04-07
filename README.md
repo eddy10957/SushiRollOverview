@@ -29,7 +29,7 @@
 </p>
 
 <p>
-<img align="right" width="210" height="297" src="Assets/poster.jpg">
+
 
 SushiRoll is an endless iOS 3D game. 
 With its intuitive mechanics and cartoonish graphics it is meant for everybody, from a casual gamer to the most competitive one. 
@@ -38,10 +38,13 @@ So what started as a flat, boring interface became a more complex and catchy con
 We then decided to take a step further and trasported all those drawings into 3D, trying to maintain the design as engaging as it was on paper. 
 After a full immersion into SceneKit and its engine, we deployed it on TestFlight to collect as much data and feedbacks as possible. 
 Hope you can enjoy it as much as we did!
+  <p align="center">
+    <img align="center" width="421" height="595" src="Assets/poster.jpg">
+  </p>
 </p>
 
 ## Gallery:
+<p align="center">
 <img align="center" width="1000" height="635" src="Assets/screen3.png">
-<img align="center" width="887" height="499" src="Assets/screen4.png">
-<video src='Assets/SushiRollDemo.mov' width=828/>
+</p>
 
