@@ -48,7 +48,7 @@ Hope you can enjoy it as much as we did!
 <img align="center" width="1000" height="635" src="Assets/screen3.png">
   
 
-  
+  <img align="center" width="300" height="650" src="Assets/demo.gif">
 </p>
-<img align="center" width="600" height="1299" src="Assets/demo.gif">
+
 
