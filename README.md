@@ -1,6 +1,6 @@
 # SushiRollOverview
 
-## Team: TTF - Three Times Four
+## Team: All You Can Eat
 * [Edoardo Troianiello](https://github.com/eddy10957)
 * [Andrea Masturzo](https://github.com/AndreaMasturzo)
 * [Christian Candela](https://github.com/ChrisCande)
