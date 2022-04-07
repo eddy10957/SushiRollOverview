@@ -29,7 +29,7 @@
 </p>
 
 <p>
-<img align="right" width="421" height="595" src="Assets/poster.jpg">
+<img align="right" width="210" height="297" src="Assets/poster.jpg">
 
 SushiRoll is an endless iOS 3D game. 
 With its intuitive mechanics and cartoonish graphics it is meant for everybody, from a casual gamer to the most competitive one. 
