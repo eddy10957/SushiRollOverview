@@ -46,5 +46,6 @@ Hope you can enjoy it as much as we did!
 ## Gallery:
 <p align="center">
 <img align="center" width="1000" height="635" src="Assets/screen3.png">
+![](https://github.com/eddy10957/SushiRollOverview/blob/main/Assets/demo.gif)
 </p>
 
