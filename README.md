@@ -26,9 +26,11 @@
 
 <p align="center">
 <a href='https://testflight.apple.com/join/eATxXMhf'>
-  <img height='50' alt='Download on the the AppStore' src='./assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg#gh-light-mode-only'/>
-  <img height='50' alt='Download on the the AppStore' src='./assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg#gh-dark-mode-only'/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">
+    <img alt="Download on the AppStore" src="./Assets/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg">
+  </picture>
+    </a>
 </p>
 <p>
 
