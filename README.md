@@ -25,9 +25,11 @@
 </p>
 
 <p align="center">
-<a href='https://testflight.apple.com/join/eATxXMhf'><img height='50' alt='Join the Beta on TestFlight' src='https://anotherlens.app/testflight-badge.png'/></a>
+<a href='https://testflight.apple.com/join/eATxXMhf'>
+  <img height='50' alt='Download on the the AppStore' src='./assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg#gh-light-mode-only'/>
+  <img height='50' alt='Download on the the AppStore' src='./assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg#gh-dark-mode-only'/>
+  </a>
 </p>
-
 <p>
 
 
