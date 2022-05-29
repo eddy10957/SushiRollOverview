@@ -40,7 +40,7 @@ We then decided to take a step further and transported all those drawings into 3
 After a full immersion into SceneKit and its engine, we deployed it on TestFlight to collect as much data and feedbacks as possible. 
 Hope you can enjoy it as much as we did!
   <p align="center">
-    <img align="center" width="421" height="595" src="Assets/poster.jpg">
+    <img align="center" width="421" height="595" src="Assets/poster2.png">
   </p>
 </p>
 
