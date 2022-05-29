@@ -25,11 +25,8 @@
 </p>
 
 <p align="center">
-<a href='https://testflight.apple.com/join/eATxXMhf'>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./Assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg">
-    <img alt="Download on the AppStore" src="./Assets/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg">
-  </picture>
+<a href='https://apps.apple.com/it/app/sushiroll-il-gioco/id1610765239'>
+  <img height='50' alt='Download on the the AppStore' src='./Assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg'/>
     </a>
 </p>
 <p>
